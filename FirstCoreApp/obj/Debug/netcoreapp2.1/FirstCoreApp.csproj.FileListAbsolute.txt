@@ -1,0 +1,14 @@
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.1\FirstCoreApp.deps.json
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.1\FirstCoreApp.runtimeconfig.json
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.1\FirstCoreApp.runtimeconfig.dev.json
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.1\FirstCoreApp.dll
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.1\FirstCoreApp.pdb
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.csprojAssemblyReference.cache
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.csproj.CoreCompileInputs.cache
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.RazorAssemblyInfo.cache
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.RazorAssemblyInfo.cs
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.AssemblyInfoInputs.cache
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.AssemblyInfo.cs
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.RazorTargetAssemblyInfo.cache
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.dll
+E:\FSD S2 Cloud\POC\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.1\FirstCoreApp.pdb
